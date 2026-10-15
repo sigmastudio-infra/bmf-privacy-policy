@@ -1,78 +1,64 @@
-**Privacy Policy**
+---
+title: Be My Friends — Privacy Policy
+---
 
-This privacy policy applies to the BMF app (hereby referred to as "Application") for mobile devices that was created by Sigma Studio (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+# Be My Friends — Privacy Policy / 개인정보처리방침
 
-**Information Collection and Use**
+Effective date / 시행일: 2026-10-15
 
-The Application collects information when you download and use it. This information may include information such as
+Developer / 개발사: Sigma Studio Inc.
+Contact / 문의: sigmastudio@sigmastudio.co.kr · http://sigmastudio.co.kr
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+---
 
-The Application does not gather precise information about the location of your mobile device.
+## English
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+This policy explains how **Be My Friends** (Android package `com.sigmastudio.bemyfriends`, "the Game") handles information.
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+### Information we do not collect
+- The Game has **no account or login**. We do not ask for your name, email address, phone number or any other personal information.
+- The Game **does not show ads** and does not use the advertising ID.
+- The Game does not access your location, contacts, camera, microphone or files.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+### Information stored on your device
+Your game progress is saved **only on your device**. It is not sent to us. Uninstalling the Game or clearing its app data deletes it.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+### Crash and diagnostic data
+The Game is built with the Unity engine. When the Game crashes or stops responding, technical diagnostic information (such as device model, operating system version, app version and error details) may be sent to **Unity Technologies**, which processes it on our behalf so that we can find and fix problems. This data is not used for advertising and is not sold.
+Unity's privacy policy: https://unity.com/legal/privacy-policy
 
-**Third Party Access**
+### Children
+The Game is not directed to children under 13, and we do not knowingly collect personal information from children.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+### Changes
+If this policy changes, we will update this page and the effective date above.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+### Contact
+For questions or requests about this policy, contact sigmastudio@sigmastudio.co.kr.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-*   [Unity](https://unity3d.com/legal/privacy-policy)
-*   [GameAnalytics](https://gameanalytics.com/privacy)
+---
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+## 한국어
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+이 방침은 **Be My Friends**(Android 패키지 `com.sigmastudio.bemyfriends`, 이하 "게임")가 정보를 어떻게 다루는지 설명합니다.
 
-**Opt-Out Rights**
+### 수집하지 않는 정보
+- 게임에는 **계정이나 로그인이 없습니다.** 이름, 이메일, 전화번호 등 개인정보를 요구하지 않습니다.
+- 게임은 **광고를 표시하지 않으며** 광고 ID를 사용하지 않습니다.
+- 위치, 연락처, 카메라, 마이크, 파일에 접근하지 않습니다.
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+### 기기에 저장되는 정보
+게임 진행 상황은 **사용자의 기기에만** 저장되며 회사로 전송되지 않습니다. 게임을 삭제하거나 앱 데이터를 지우면 함께 삭제됩니다.
 
-**Data Retention Policy**
+### 비정상 종료·진단 정보
+게임은 Unity 엔진으로 만들어졌습니다. 게임이 비정상 종료되거나 응답하지 않을 때 기기 모델, OS 버전, 앱 버전, 오류 내용 등 기술적 진단 정보가 **Unity Technologies**로 전송될 수 있으며, Unity는 회사가 문제를 찾아 고칠 수 있도록 이를 대신 처리합니다. 이 정보는 광고에 쓰이지 않으며 판매되지 않습니다.
+Unity 개인정보처리방침: https://unity.com/legal/privacy-policy
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at sigmastudio.infra@gmail.com and they will respond in a reasonable time.
+### 아동
+게임은 만 13세 미만 아동을 대상으로 하지 않으며, 아동의 개인정보를 알면서 수집하지 않습니다.
 
-**Children**
+### 변경
+이 방침이 바뀌면 이 페이지와 위의 시행일을 갱신합니다.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (sigmastudio.infra@gmail.com) so that they will be able to take the necessary actions.
-
-**Security**
-
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
-
-**Changes**
-
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
-This privacy policy is effective as of 2026-01-19
-
-**Your Consent**
-
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at sigmastudio.infra@gmail.com.
-
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+### 문의
+이 방침에 관한 문의나 요청은 sigmastudio@sigmastudio.co.kr 로 연락해 주세요.
